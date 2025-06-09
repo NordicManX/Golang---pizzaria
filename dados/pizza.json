@@ -1,0 +1,10 @@
+[
+  { "id": 1, 
+  "nome": "Toscana", 
+  "preco": 99.5 
+    },
+    { "id": 2, 
+    "nome": "Atum com Queijo", 
+    "preco": 99.5 
+    }
+]
